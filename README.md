@@ -42,7 +42,7 @@ More projects coming soon as I continue building and uploading my work.
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/muhammad-abdullah-680a57255
+- LinkedIn: www.linkedin.com/in/muhammad-abdullah-568897337
 - GitHub: github.com/MuhammadAbdullah447
 
 ---
