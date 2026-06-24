@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Muhammad Abdullah 👋
 
-<!--
-**MuhammadAbdullah447/MuhammadAbdullah447** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at University of Gujrat
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer passionate about building web and mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+### Languages
+- C
+- C++
+- Python
+- JavaScript
+- Dart
+
+### Web Development
+- HTML
+- CSS
+- React.js
+- Next.js
+
+### Mobile Development
+- Flutter
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 📚 Currently Learning
+
+- Advanced React Development
+- Machine Learning
+- Deep Learning
+- Software Engineering Best Practices
+
+## 🌟 Featured Project
+
+- 📱 Flutter Mobile Application (available in my repositories)
+
+More projects coming soon as I continue building and uploading my work.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/muhammad-abdullah-680a57255
+- GitHub: github.com/MuhammadAbdullah447
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
